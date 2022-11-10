@@ -1,0 +1,113 @@
+[33mcommit 5a33d8ff4a9ddc46e096ab17959faf210e453e3b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 13:03:00 2022 -0600
+
+    inputs para dvdnet
+
+[33mcommit 9a03e7f14a23b19ef5d1aa7f74a126b962ed8fa3[m
+Author: Ubuntu <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 17:38:34 2022 +0000
+
+    video salida de stopmotion redimensionado
+
+[33mcommit 3e6ea4fd29a543142050c74950f7946c9a158e80[m
+Author: Ubuntu <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 17:08:37 2022 +0000
+
+    video rescalado pra zooming
+
+[33mcommit 4037320709c0dd9dc258e721aea8220484198288[m
+Author: Ubuntu <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 16:48:37 2022 +0000
+
+    Salida zooming en instancia
+
+[33mcommit 1df25e2826014d3b8142b993a40183c7f33fd355[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 10:45:47 2022 -0600
+
+    Video para zooming
+
+[33mcommit 05f8b3536b7aa43badd64a2a8b3051013e7d0ea2[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 09:57:30 2022 -0600
+
+    videos para zooming
+
+[33mcommit d8c363a75ca37cc3659a152e8438058b63ff45c1[m
+Author: Ubuntu <jorge.coral@deepdatat.com>
+Date:   Tue Nov 8 15:27:13 2022 +0000
+
+    Se agregaron archivos para descargar contenido desde algun enlance
+
+[33mcommit 5e2847726a0ec76b8e379158b3a244fa41747d45[m
+Author: Ubuntu <ubuntu@ip-172-31-93-72.ec2.internal>
+Date:   Fri Nov 4 22:08:41 2022 +0000
+
+    outputs tlc
+
+[33mcommit 11f25ca3b7f6b56e1bc86cf550a96ae93cc72dcf[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Fri Nov 4 15:35:35 2022 -0600
+
+    imagenes de prueba para tlc
+
+[33mcommit 9cc27d4e98d78ff6d24181ff8a91b96e5c7e234f[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Fri Nov 4 15:25:23 2022 -0600
+
+    modelo para tlc por defecto
+
+[33mcommit 2bbb5ffcf27a0137fc16a2c6276c218f2f9e5dd5[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Fri Nov 4 14:58:34 2022 -0600
+
+    archivo tlc
+
+[33mcommit f73d86e495c0478a63a48a9910ca54c2fac49a35[m
+Author: Ubuntu <ubuntu@ip-172-31-93-72.ec2.internal>
+Date:   Fri Nov 4 19:48:06 2022 +0000
+
+    warping
+
+[33mcommit 375a05d07de2703efc16c9ae29c7a0e69bc47573[m
+Author: Ubuntu <ubuntu@ip-172-31-93-72.ec2.internal>
+Date:   Fri Nov 4 19:46:03 2022 +0000
+
+    Video original de entrada
+
+[33mcommit 5e9b592da5cbd4af66774bca140017e6deed1b96[m
+Author: Ubuntu <ubuntu@ip-172-31-93-72.ec2.internal>
+Date:   Fri Nov 4 19:42:32 2022 +0000
+
+    Vdeo salida de vidstab
+
+[33mcommit 2df16accc1ff1e68d37071e20aea09537a580251[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Fri Nov 4 11:03:59 2022 -0600
+
+    Video para FuSta
+
+[33mcommit 8bfe0520928a49655390f1d5f95f8db352d14649[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Thu Nov 3 11:58:07 2022 -0600
+
+    Se agrgó link para descargar repositorio instalado de FuSta
+
+[33mcommit 5d071e61cb59ee1314ff853caad159d23bb681d3[m
+Author: NUC <jorge.coral@deepdatat.com>
+Date:   Thu Nov 3 11:30:58 2022 -0600
+
+    se añadio archivo para links de descargas
+
+[33mcommit 7506ecc88987114e7691f2a0049f69ca029cc659[m
+Author: Ubuntu <ubuntu@ip-172-31-93-72.ec2.internal>
+Date:   Thu Nov 3 16:02:06 2022 +0000
+
+    Imagen de prueba
+
+[33mcommit d843e5bec2853d50fc5aa77bd64a23f1a1ac1145[m
+Author: JorgeCoral <97763719+JorgeCoral@users.noreply.github.com>
+Date:   Thu Nov 3 09:52:31 2022 -0600
+
+    Initial commit
